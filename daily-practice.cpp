@@ -1,6 +1,4 @@
 #include <iostream>
-using namespace std;
-
-int main (){
-    cout<< "Hola estoy aprendiendo c++ y practicando diario";
+int main(){
+    std::cout<<"Hola intentando no usar using namespaces cada linea tendria que tener std";
 }
