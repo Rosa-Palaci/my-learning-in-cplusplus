@@ -1,4 +1,7 @@
 #include <iostream>
+using namespace std;
+
 int main(){
-    std::cout<<"Hola intentando no usar using namespaces cada linea tendria que tener std";
+    cout << "Aloha jejeje\n";
+    cout << "Saludito hawaino";
 }
